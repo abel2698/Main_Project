@@ -1,0 +1,9 @@
+{
+    "name": "eth-supplychain-dapp",
+    "version": "0.1.0",
+    "dependencies": {
+        "i": "^0.3.7",
+        "solc": "^0.8.4",
+        "truffle": "^5.4.29"
+    }
+}
