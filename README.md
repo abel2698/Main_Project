@@ -11,15 +11,14 @@
   <a href="https://soliditylang.org/">
     <img src="https://github.com/rishav4101/eth-supplychain-dapp/blob/main/images/Solidity.svg" width="80">       
   </a>
-  <a href="https://reactjs.org/"><img src="https://github.com/rishav4101/eth-supplychain-dapp/blob/main/images/react.png" width="80"></a>
-  
+  <a href="https://reactjs.org/"><img src="https://github.com/rishav4101/eth-supplychain-dapp/blob/main/images/react.png" width="80"></a>  
   <a href="https://www.trufflesuite.com/">
     <img src="https://github.com/rishav4101/eth-supplychain-dapp/blob/main/images/trufflenew.png" width="50">
   </a>
    &nbsp;&nbsp;&nbsp;
   <a href="https://www.npmjs.com/package/web3">
     <img src="https://github.com/rishav4101/eth-supplychain-dapp/blob/main/images/web3.jpg" width="60">
-  </a>
+  </a>   &nbsp;&nbsp;&nbsp;
   <a href="https://expressjs.com/"><img src="https://github.com/rishav4101/eth-supplychain-dapp/blob/main/images/express.svg" width="50"></a>
 </p>
 
