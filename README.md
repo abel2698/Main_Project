@@ -37,19 +37,6 @@
 
 <h4 align="center">A simple Supply Chain setup with <a href="https://docs.soliditylang.org/en/v0.8.4/" target="_blank">Solidity</a>.</h4>
 
-<p align="center">
-  <a >
-    <img src="https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg">
-       
-  </a>
-  <a href="https://github.com/rishav4101/eth-supplychain-dapp/issues"><img src="https://img.shields.io/github/issues/rishav4101/eth-supplychain-dapp.svg"></a>
-  
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/license-MIT-green.svg">
-  </a>
-</p>
-
-
 
 ## Description
 Supply chain is always hard to manage and requires a lot of admistrative machinery. However, when managed with smart contracts using blockchain, a lot of the paperwork is reduced.
