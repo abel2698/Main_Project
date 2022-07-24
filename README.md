@@ -6,20 +6,20 @@
 <p align="center">
   
   <a href="https://github.com/trufflesuite/ganache-cli">
-    <img src="https://github.com/rishav4101/eth-supplychain-dapp/blob/main/images/ganachetrans.png" width="90">
+    <img src="https://github.com/abel2698/Main_Project/blob/main/images/ganachetrans.png" width="90">
   </a>
   <a href="https://soliditylang.org/">
-    <img src="https://github.com/rishav4101/eth-supplychain-dapp/blob/main/images/Solidity.svg" width="80">       
+    <img src="https://github.com/abel2698/Main_Project/blob/main/images/Solidity.svg" width="80">       
   </a>
   <a href="https://reactjs.org/"><img src="https://github.com/rishav4101/eth-supplychain-dapp/blob/main/images/react.png" width="80"></a>  
   <a href="https://www.trufflesuite.com/">
-    <img src="https://github.com/rishav4101/eth-supplychain-dapp/blob/main/images/trufflenew.png" width="50">
+    <img src="https://github.com/abel2698/Main_Project/blob/main/images/trufflenew.png" width="50">
   </a>
    &nbsp;&nbsp;&nbsp;
   <a href="https://www.npmjs.com/package/web3">
-    <img src="https://github.com/rishav4101/eth-supplychain-dapp/blob/main/images/web3.jpg" width="60">
+    <img src="https://github.com/abel2698/Main_Project/blob/main/images/web3.jpg" width="60">
   </a>   &nbsp;&nbsp;&nbsp;
-  <a href="https://expressjs.com/"><img src="https://github.com/rishav4101/eth-supplychain-dapp/blob/main/images/express.svg" width="50"></a>
+  <a href="https://expressjs.com/"><img src="https://github.com/abel2698/Main_Project/blob/main/images/express.svg" width="50"></a>
 </p>
 
 ## Description
