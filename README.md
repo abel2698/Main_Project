@@ -45,14 +45,6 @@ Also it leads to an increase in the transparency and helps to build an efficient
 The smart contract is being written with Solidity which is then compiled, migrated and deployed using Truffle.js on the local blockchain network created using Ganache-cli.The frontend uses Web3.js to communicate with the smart contract and local blockchain network and is written using React.js framework for better component and state lifecycle management.The requests from user are forwarded to frontend through Nginx(load balancer) and Express.js for dynamic routing.
 
 
-## Flow
-<p align="centre">  
-    <img src="https://github.com/rishav4101/eth-supplychain-dapp/blob/main/images/flow.png" width="300">  
-</p>
-
-
-
-
 
 ## Installation and Setup
 Prerequisites : `npm, git`
@@ -61,36 +53,19 @@ Install dependencies
 ```Bash
 npm i
 ```
-Install ganache-cli
+Install node modules
 ```Bash
-npm i -g ganache-cli
-```
-Configure ganache-cli for 10 accounts and extend gasLimit to 6721975000 and beyond, so as to have enough gas for migrating the smart contracts and a data flow for the prototype.  
-```Bash
-ganache-cli --accounts 10 --gasLimit 6721975000
-```
-If you want to run the ganache-cli on docker then use the following command
-```Bash
-sudo docker run -d -p 8545:8545 trufflesuite/ganache-cli:latest -h 0.0.0.0 --accounts 10 --gasLimit 6721975000
+npm i 
 ```
 Migrate the contracts
 ```Bash
-truffle migrate --network=develop --reset
-```
-Open a second terminal and enter the client folder
+truffle migrate 
 ```Bash
 cd client
 ```
-Install all packages in the package.json file
+Install node modules
 ```Bash
-npm i
-```
-Setup an .env file using the `nano .env` command and enter the google maps api key and set the react rpc port to 8545 since the ganache-cli runs on the same port by default.
-The final .env file must look like this
-```Bash
-REACT_APP_GOOGLE_MAP_API_KEY=*************************
-REACT_APP_RPC=http://127.0.0.1:8545/
-
+npm i 
 ```
 Run the app
 ```Bash
@@ -98,15 +73,3 @@ npm start
 ```
 The app gets hosted by default at port 3000.
 
-
-
-## License
-This project uses an [MIT](https://opensource.org/licenses/MIT) license.
-## Documentation to help with Solidity
-https://docs.soliditylang.org/en/v0.8.4/
-## Documentation to help with React
-https://reactjs.org/docs/getting-started.html
-## Documentation to help with Truffle
-https://www.trufflesuite.com/docs/truffle/reference/configuration
-## Documentation to help with Ganache-cli
-https://www.trufflesuite.com/docs/ganache/overview
