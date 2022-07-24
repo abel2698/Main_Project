@@ -28,8 +28,6 @@ Also it leads to an increase in the transparency and helps to build an efficient
 
 
 ## Installation and Setup
-Prerequisites : `npm, git`
-
 Install dependencies
 ```Bash
 npm i
