@@ -1,7 +1,4 @@
 <h1 align="center">
-  <br>
-  
-  <br>  
   Smart Invest Using Blockchain
   <br>
 </h1>
@@ -52,10 +49,6 @@ Prerequisites : `npm, git`
 Install dependencies
 ```Bash
 npm i
-```
-Install node modules
-```Bash
-npm i 
 ```
 Migrate the contracts
 ```Bash
