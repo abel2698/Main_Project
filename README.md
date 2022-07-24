@@ -53,6 +53,7 @@ npm i
 Migrate the contracts
 ```Bash
 truffle migrate 
+```
 ```Bash
 cd client
 ```
